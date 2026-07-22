@@ -1,0 +1,24 @@
+# Virtual Environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Audio files
+voice.wav
+input.wav
+*.mp3
+
+# Memory
+jarvis_memory.json
+
+# VS Code
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
